@@ -16,6 +16,7 @@ remote_state {
 }
 inputs = {
   deploy_region = "us-west-2"
-  access_key    = "<access_key>"
-  secret_key    = "<secret_key>"
+  access_key    = "<KEY>"
+  secret_key    = "<SECRET>"
 }
+
